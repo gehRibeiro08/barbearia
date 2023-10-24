@@ -1,1 +1,17 @@
+body {
+    background: #CCCCCC;
+}
 
+h1{
+    color: red;
+    background: blue;
+    text-align: center;
+}
+p {
+   text-align: center; 
+   font-size: 20px; 
+}
+
+em strong {
+    color: purple; 
+}
