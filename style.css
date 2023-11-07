@@ -3,11 +3,15 @@ body {
 }
 
 #banner{
-  width: 100%;t
+  width: 100%;
+}
+
+.principal{
+    background: #CCCCCC;
 }
 
 h1{
-    color: red;
+    color: aquamarine;
     background: blue;
     text-align: center;
 }
@@ -24,3 +28,15 @@ p {
 em strong {
     color: purple; 
 }
+
+.itens{
+    font-style: italic;
+}
+
+.benefícios{
+    background: #FFFFFF;
+}
+
+h2 {
+    text-align: center;
+}  
