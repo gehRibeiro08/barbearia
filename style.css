@@ -8,9 +8,14 @@ body {
 
 .principal{
     background: #CCCCCC;
+    padding: 30px;
 }
 
-h1{
+.titulo-principal{
+    padding-left: 20px;
+}
+
+.titulo-centralizado{
     color: aquamarine;
     background: blue;
     text-align: center;
@@ -33,10 +38,18 @@ em strong {
     font-style: italic;
 }
 
-.benefícios{
+.beneficios{
     background: #FFFFFF;
+    padding: 20px;
 }
 
-h2 {
-    text-align: center;
-}  
+ul{
+    display: inline-block;
+    veretical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficios{
+    width: 50%; 
+}
